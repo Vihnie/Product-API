@@ -28,15 +28,19 @@ Includes custom middleware for logging, error handling, and advanced routing fea
 
 product-api/
 │
+
 ├── middleware/
 │   └── logger.js
 │
+
 ├── routes/
 │   └── productRoutes.js
 │
+
 ├── utils/
 │   └── errorHandler.js
 │
+
 ├── app.js
 ├── server.js
 └── README.md
