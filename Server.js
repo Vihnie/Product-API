@@ -4,7 +4,6 @@ Product-API
 A RESTful API built with Express.js that allows users to manage product resources.  
 Includes custom middleware for logging, error handling, and advanced routing features.
 
-
  Features
 
 - Get all products  
@@ -94,7 +93,6 @@ Content-Type: application/json
 🔹 DELETE a product
 
 DELETE http://localhost:3000/api/products/1
-
 
 
 
